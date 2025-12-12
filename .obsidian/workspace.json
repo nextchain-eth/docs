@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/About nextchin hub/ABOUT NEXT CHAIN HUB.md",
+                "file": "content/events/virtual/VIRTUAL CALLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABOUT NEXT CHAIN HUB"
+              "title": "VIRTUAL CALLS"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "0e53ef85df496c08",
   "lastOpenFiles": [
-    "content/events/resilience.md",
     "content/About nextchin hub/ABOUT NEXT CHAIN HUB.md",
+    "content/events/virtual/VIRTUAL CALLS.md",
+    "content/events/resilience.md",
     "content/events/inperson",
     "content/events/virtual",
     "content/events/index.md",
@@ -217,7 +218,6 @@
     "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
     "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
     "content/processes/evaluation/3. Resources & Evidence/index.md",
-    "content/processes/evaluation/2. Our Methodology/c. Enabling Stewardship.md",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "evaluation day2 1.jpg",
