@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/About nextchin hub/Untitled.md",
+                "file": "content/About nextchin hub/ABOUT NEXT CHAIN HUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ABOUT NEXT CHAIN HUB"
             }
           }
         ]
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "0e53ef85df496c08",
   "lastOpenFiles": [
     "content/events/resilience.md",
-    "content/About nextchin hub/Untitled.md",
+    "content/About nextchin hub/ABOUT NEXT CHAIN HUB.md",
     "content/events/inperson",
     "content/events/virtual",
     "content/events/index.md",
