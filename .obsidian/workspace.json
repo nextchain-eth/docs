@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/OUR STORY/Story Of Nextchain Hub Ethiopia.md",
+                "file": "content/context-narrative/Bioregional Celebration Festival.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story Of Nextchain Hub Ethiopia"
+              "title": "Bioregional Celebration Festival"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3401c5156e17d44a",
   "lastOpenFiles": [
-    "content/patterns/action-learning journeys.md",
     "content/OUR STORY/Story Of Nextchain Hub Ethiopia.md",
+    "content/patterns/action-learning journeys.md",
     "content/OUR STORY",
     "content/patterns/action-learning.md",
     "content/Nextchain hub teams/TEAM 8 NAFI/about the project.md",
