@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b3697b1c414fb1b9",
+        "id": "fc2c3f625a863573",
         "type": "tabs",
         "children": [
           {
-            "id": "3401c5156e17d44a",
+            "id": "4633bbd0b3418682",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f9a9749fe79c1096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/OUR STORY/Story Of Nextchain Hub Ethiopia.md",
+                "file": "content/OUR STORY/Nextchain hub intro/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story Of Nextchain Hub Ethiopia"
+              "title": "Intro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +191,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3401c5156e17d44a",
+  "active": "f9a9749fe79c1096",
   "lastOpenFiles": [
-    "content/context-narrative/Bioregional Celebration Festival.md",
+    "content/Workshops.md",
+    "content/OUR STORY/Nextchain hub intro/Intro.md",
+    "content/OUR STORY/Nextchain hub intro",
+    "content/Workshops",
     "content/OUR STORY/Story Of Nextchain Hub Ethiopia.md",
+    "OBSIDIAN_SETUP.md",
+    "Untitled.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "public/abdul.jpg",
+    "content/context-narrative/Bioregional Celebration Festival.md",
     "content/patterns/action-learning journeys.md",
     "content/OUR STORY",
     "content/patterns/action-learning.md",
@@ -202,22 +222,14 @@
     "content/Nextchain hub teams/TEAM 3 Great african run/About the project.md",
     "content/Nextchain hub teams/TEAM 4 mulu card",
     "content/Practices/Appreciative Inquiry.md",
-    "content/Nextchain hub teams/TEAM 3 Great african run",
     "content/patterns/aspects.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "content/context-narrative/Replace Academy Case Study.md",
-    "Untitled.md",
     "content/events/virtual/VIRTUAL CALLS.md",
     "content/About nextchain hub/ABOUT NEXT CHAIN HUB.md",
     "content/events/resilience.md",
-    "content/events/inperson",
     "content/events/index.md",
     "content/events/summit/Roles, Responsibilities and Domains.md",
     "content/processes/enrolment/Hub Enrollment Form Design.md",
-    "content/collaborators/communities-of-place/hub/hub team.md",
-    "collaborators/communities-of-place/hub/hubs.md",
-    "content/collaborators/communities-of-practice/regenesis-wada.md",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "evaluation day2 1.jpg",
@@ -226,7 +238,6 @@
     "evaluation day3.jpg",
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
-    "evaluation day1.jpg",
-    "public/noah.jpg"
+    "evaluation day1.jpg"
   ]
 }
