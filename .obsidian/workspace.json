@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/OUR STORY/Nextchain hub intro/Intro.md",
+                "file": "content/Workshops/Workshops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Workshops"
             }
           }
         ],
@@ -193,8 +193,9 @@
   },
   "active": "f9a9749fe79c1096",
   "lastOpenFiles": [
-    "content/Workshops.md",
     "content/OUR STORY/Nextchain hub intro/Intro.md",
+    "content/Workshops/Workshops.md",
+    "content/Workshops.md",
     "content/OUR STORY/Nextchain hub intro",
     "content/Workshops",
     "content/OUR STORY/Story Of Nextchain Hub Ethiopia.md",
@@ -229,7 +230,6 @@
     "content/events/resilience.md",
     "content/events/index.md",
     "content/events/summit/Roles, Responsibilities and Domains.md",
-    "content/processes/enrolment/Hub Enrollment Form Design.md",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "evaluation day2 1.jpg",
