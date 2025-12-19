@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Workshops/Workshops.md",
+                "file": "content/Nextchain hub teams/TEAMS/Teams, Projects & Emergence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workshops"
+              "title": "Teams, Projects & Emergence"
             }
           }
         ],
@@ -191,11 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "f9a9749fe79c1096",
   "lastOpenFiles": [
+    "content/Workshops/Workshops.md",
+    "content/Nextchain hub teams/TEAMS/Teams, Projects & Emergence.md",
     "content/Nextchain hub teams/TEAMS",
     "content/OUR STORY/Nextchain hub intro/Intro.md",
-    "content/Workshops/Workshops.md",
     "content/Workshops.md",
     "content/OUR STORY/Nextchain hub intro",
     "content/Workshops",
@@ -222,7 +223,6 @@
     "content/Nextchain hub teams/TEAMS/TEAM 5 green soil",
     "content/Nextchain hub teams/Untitled.md",
     "content/Nextchain hub teams/TEAMS/TEAM 3 Great african run/About the project.md",
-    "content/Nextchain hub teams/TEAMS/TEAM 4 mulu card",
     "content/Practices/Appreciative Inquiry.md",
     "content/patterns/aspects.md",
     "content/context-narrative/Replace Academy Case Study.md",
