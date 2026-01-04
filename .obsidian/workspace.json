@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/virtual/VIRTUAL CALLS.md",
+                "file": "content/events/inperson/WORKSHOP WINNER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIRTUAL CALLS"
+              "title": "WORKSHOP WINNER"
             }
           }
         ],
@@ -193,8 +193,12 @@
   },
   "active": "f9a9749fe79c1096",
   "lastOpenFiles": [
-    "content/Nextchain hub teams/winners.md",
+    "content/processes/orientation/ORIENTATION.md",
+    "content/events/inperson/WORKSHOP WINNER.md",
+    "content/processes/grounding and allignment/GROUNDING AND ALLIGNMENT.md",
+    "content/processes/enactment and building/ENACTMENT AND BUILDING.md",
     "content/events/virtual/VIRTUAL CALLS.md",
+    "content/Nextchain hub teams/winners.md",
     "content/events/inperson/IN PERSON EVENTS.md",
     "content/Nextchain hub teams/TEAMS/TEAM KIRAR/about the project.md",
     "content/Nextchain hub teams/TEAMS/Teams, Projects & Emergence.md",
@@ -226,10 +230,6 @@
     "content/Nextchain hub teams/TEAMS/TEAM 5 green soil/about the project.md",
     "content/Nextchain hub teams/TEAMS/TEAM 6 santa ADs",
     "content/Nextchain hub teams/TEAMS/TEAM 4 mulu card/about the roject.md",
-    "content/Nextchain hub teams/TEAMS/TEAM 3 Great african run/About the project.md",
-    "content/Practices/Appreciative Inquiry.md",
-    "content/patterns/aspects.md",
-    "content/context-narrative/Replace Academy Case Study.md",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "evaluation day2 1.jpg",
