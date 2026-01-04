@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/processes/evaluation/EVALUATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "EVALUATION"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/processes/evaluation/EVALUATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for EVALUATION"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/processes/evaluation/EVALUATION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of EVALUATION"
             }
           },
           {
@@ -177,9 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91c61f8c19e7acf8",
+  "active": "f9a9749fe79c1096",
   "lastOpenFiles": [
     "content/Workshops/Workshops.md",
+    "content/processes/evaluation/EVALUATION.md",
+    "content/processes/evaluation/index.md",
     "content/processes/reflection and continity/reflection and continity.md",
     "content/processes/REFLECTION AND CONTINITY.md",
     "content/processes/process overview/PROCESS OVERVIEW.md",
@@ -190,7 +192,6 @@
     "content/processes/orientation/ORIENTATION.md",
     "content/processes/grounding and allignment/GROUNDING AND ALLIGNMENT.md",
     "content/Nextchain hub teams/winners.md",
-    "content/processes/evaluation/index.md",
     "content/processes/enactment and building/ENACTMENT AND BUILDING.md",
     "content/events/inperson/IN PERSON EVENTS.md",
     "content/events/virtual/VIRTUAL CALLS.md",
@@ -214,7 +215,6 @@
     "content/patterns/action-learning journeys.md",
     "content/OUR STORY",
     "content/patterns/action-learning.md",
-    "content/Nextchain hub teams/TEAMS/TEAM 8 NAFI/about the project.md",
     "content/Nextchain hub teams/TEAMS/TEAM 8 NAFI",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
