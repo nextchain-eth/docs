@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/inperson/IN PERSON EVENTS.md",
+                "file": "content/processes/enactment and building/ENACTMENT AND BUILDING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IN PERSON EVENTS"
+              "title": "ENACTMENT AND BUILDING"
             }
           }
         ],
@@ -157,6 +157,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8f6c689f90e1d230",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/processes/enactment and building/ENACTMENT AND BUILDING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ENACTMENT AND BUILDING"
+            }
           }
         ],
         "currentTab": 3
@@ -179,11 +193,12 @@
   },
   "active": "f9a9749fe79c1096",
   "lastOpenFiles": [
+    "content/Nextchain hub teams/TOP 3 WINNERS.md",
+    "content/events/inperson/IN PERSON EVENTS.md",
     "content/Nextchain hub teams/TEAMS/TEAM KIRAR/about the project.md",
     "content/Nextchain hub teams/TEAMS/Teams, Projects & Emergence.md",
     "content/Nextchain hub teams/TEAMS/TEAM 4 mulu card/about the roject.md",
     "content/Nextchain hub teams/TEAMS/TEAM 3 Great african run/About the project.md",
-    "content/Nextchain hub teams/TOP 3 WINNERS.md",
     "content/processes/enactment and building/ENACTMENT AND BUILDING.md",
     "content/events/inperson/WORKSHOP WINNER.md",
     "content/Workshops/Workshops.md",
@@ -197,7 +212,6 @@
     "content/processes/process overview",
     "content/processes/orientation/ORIENTATION.md",
     "content/processes/grounding and allignment/GROUNDING AND ALLIGNMENT.md",
-    "content/events/inperson/IN PERSON EVENTS.md",
     "content/events/virtual/VIRTUAL CALLS.md",
     "content/About nextchain hub/ABOUT NEXT CHAIN HUB.md",
     "content/Nextchain hub teams/TEAMS/TEAM KIRAR",
