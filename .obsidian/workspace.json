@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Nextchain hub teams/TOP 3 WINNERS.md",
+                "file": "content/processes/reflection and continity/reflection and continity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOP 3 WINNERS"
+              "title": "reflection and continity"
             }
           }
         ],
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Nextchain hub teams/TOP 3 WINNERS.md",
+                "file": "content/processes/reflection and continity/reflection and continity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TOP 3 WINNERS"
+              "title": "Outgoing links from reflection and continity"
             }
           }
         ],
@@ -193,10 +193,11 @@
   },
   "active": "f9a9749fe79c1096",
   "lastOpenFiles": [
-    "content/events/virtual/VIRTUAL CALLS.md",
+    "content/processes/grounding and allignment/GROUNDING AND ALLIGNMENT.md",
     "content/processes/enactment and building/ENACTMENT AND BUILDING.md",
-    "content/Nextchain hub teams/TOP 3 WINNERS.md",
     "content/events/inperson/IN PERSON EVENTS.md",
+    "content/events/virtual/VIRTUAL CALLS.md",
+    "content/Nextchain hub teams/TOP 3 WINNERS.md",
     "content/Nextchain hub teams/TEAMS/TEAM KIRAR/about the project.md",
     "content/Nextchain hub teams/TEAMS/Teams, Projects & Emergence.md",
     "content/Nextchain hub teams/TEAMS/TEAM 4 mulu card/about the roject.md",
@@ -212,7 +213,6 @@
     "content/processes/process overview/PROCESS OVERVIEW.md",
     "content/processes/process overview",
     "content/processes/orientation/ORIENTATION.md",
-    "content/processes/grounding and allignment/GROUNDING AND ALLIGNMENT.md",
     "content/About nextchain hub/ABOUT NEXT CHAIN HUB.md",
     "content/Nextchain hub teams/TEAMS/TEAM KIRAR",
     "content/Nextchain hub teams/TEAMS/Untitled.md",
